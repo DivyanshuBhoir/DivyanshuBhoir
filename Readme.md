@@ -5,12 +5,12 @@
   </header>
 
   <div style="text-align: center; padding: 20px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6347&center=true&vCenter=true&width=435&lines=Computer+Engineer;Android+Developer;Security+Engineer;Website+Penetration+Tester;Game+Developer;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6347&center=true&vCenter=true&width=435&lines=Computer+Engineer;Android+Developer;" alt="Typing SVG" />
   </div>
 
   <!-- Short Introduction Section -->
   <section style="text-align: center; padding: 40px; font-size: 1.1em; background: #2c3e50; margin-top: 20px;">
-    <p>🚀 Android Developer | 🔐 Cybersecurity Enthusiast | 🌐 Website Penetration Tester <br>
+    <p>🚀 Android Developer <br>
       🎓 Student at St. John College of Engineering and Technology <br>
       💡 Passionate about learning and building innovative solutions <br>
       ☕ Lifelong Learner
@@ -27,7 +27,7 @@
           </a>
         </td>
         <td align="center">
-          <a href="https://github.com/divyanshubhoir" target="_blank">
+          <a href="https://github.com/DivyanshuBhoir" target="_blank">
             <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
           </a>
         </td>
@@ -44,12 +44,13 @@
     <h3 style="font-size: 1.8em; color: #f39c12;">🛠️ Languages & Tools 🛠️</h3>
     <div style="padding: 20px;">
       <img src="https://img.shields.io/badge/Code-Kotlin-informational?style=for-the-badge&logo=kotlin&color=7F52FF" alt="Kotlin">
-      <img src="https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&color=007396" alt="Java">
-      <img src="https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=cplusplus&color=00599C" alt="C++">
+  
       <img src="https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&color=3776AB" alt="Python">
       <img src="https://img.shields.io/badge/Tools-Android_Studio-informational?style=for-the-badge&logo=android-studio&color=3DDC84" alt="Android Studio">
-      <img src="https://img.shields.io/badge/Tools-Burp_Suite-informational?style=for-the-badge&logo=burp-suite&color=FF7139" alt="Burp Suite">
-      <img src="https://img.shields.io/badge/Tools-Penetration_Testing-informational?style=for-the-badge&logo=owasp&color=FF0000" alt="Penetration Testing">
+      <img src="https://img.shields.io/badge/Code-Flutter-informational?style=for-the-badge&logo=flutter&color=02569B" alt="Flutter">
+      <img src="https://img.shields.io/badge/Code-MERN-informational?style=for-the-badge&logo=mern&color=0085FF" alt="MERN">
+
+
     </div>
   </section>
 
@@ -59,13 +60,13 @@
   <section style="text-align: center;">
     <h3 style="color: #e74c3c; font-size: 1.8em;">📊 GitHub Stats 📊</h3>
     <p>
-      <img src="https://github-readme-stats.vercel.app/api?username=divyanshubhoir&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%; max-width: 600px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=DivyanshuBhoir&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%; max-width: 600px;">
     </p>
     <p>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshubhoir&theme=radical" alt="GitHub Streak" style="width: 100%; max-width: 600px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshuBhoir&theme=radical" alt="GitHub Streak" style="width: 100%; max-width: 600px;">
     </p>
     <p>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshubhoir&layout=compact&theme=radical" alt="Top Languages" style="width: 100%; max-width: 600px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuBhoir&layout=compact&theme=radical" alt="Top Languages" style="width: 100%; max-width: 600px;">
     </p>
   </section>
 
@@ -74,7 +75,7 @@
   <!-- Contribution Chart Section -->
   <section style="text-align: center; margin-top: 30px;">
     <a href="https://github.com/divyanshubhoir">
-      <img src="https://ghchart.rshah.org/divyanshubhoir" alt="Divyanshu Bhoir's GitHub Contribution Chart" style="width: 100%; max-width: 600px;">
+      <img src="https://ghchart.rshah.org/DivyanshuBhoir" alt="Divyanshu Bhoir's GitHub Contribution Chart" style="width: 100%; max-width: 600px;">
     </a>
   </section>
 
@@ -86,7 +87,7 @@
     <a href="https://www.linkedin.com/in/divyanshubhoir" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" style="margin: 10px;">
     </a>
-    <a href="mailto:divyanshubhoir.2004@gmail.com" target="_blank">
+    <a href="mailto:divyanshubhoir123@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 10px;">
     </a>
   </section>

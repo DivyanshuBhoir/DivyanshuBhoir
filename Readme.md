@@ -49,8 +49,6 @@
       <img src="https://img.shields.io/badge/Tools-Android_Studio-informational?style=for-the-badge&logo=android-studio&color=3DDC84" alt="Android Studio">
       <img src="https://img.shields.io/badge/Code-Flutter-informational?style=for-the-badge&logo=flutter&color=02569B" alt="Flutter">
       <img src="https://img.shields.io/badge/Code-MERN-informational?style=for-the-badge&logo=mern&color=0085FF" alt="MERN">
-
-
     </div>
   </section>
 

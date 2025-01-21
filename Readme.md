@@ -1,101 +1,103 @@
-<body style="background: #2c3e50; color: white; font-family: 'Arial', sans-serif;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%" alt="Header Image">
+<body style="background: linear-gradient(135deg, #f06, #4a90e2); font-family: 'Arial', sans-serif; color: #fff; padding: 0; margin: 0;">
+  <!-- Header with a Waving Gradient -->
+  <header style="background: linear-gradient(135deg, #f06, #4a90e2); height: 110px; display: flex; justify-content: center; align-items: center;">
+    <h1 style="color: #fff; font-size: 2.5em; font-weight: 700;">Hi there, I'm <a href="https://github.com/divyanshubhoir" target="_blank" style="color: #fff; text-decoration: none; font-size: 2.5em; font-weight: bold;">Divyanshu Bhoir</a> ✨</h1>
+  </header>
 
-  <h1 align="center" style="font-size: 3em; color: #f39c12;">Hi there, I'm <a href="https://github.com/onkararadhye" target="_blank" style="color: #e74c3c; text-decoration: none;">Onkar Aradhye</a> ✨</h1>
+  <div style="text-align: center; padding: 20px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6347&center=true&vCenter=true&width=435&lines=Computer+Engineer;Android+Developer;Security+Engineer;Website+Penetration+Tester;Game+Developer;" alt="Typing SVG" />
+  </div>
 
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Android+Developer;Security+Engineer;Website+Penetration+Tester;Game+Devloper;" alt="Typing SVG" />
-  </p>
-  <p align="center">
-    <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="50" alt="Gif">
-  </p>
+  <!-- Short Introduction Section -->
+  <section style="text-align: center; padding: 40px; font-size: 1.1em; background: #2c3e50; margin-top: 20px;">
+    <p>🚀 Android Developer | 🔐 Cybersecurity Enthusiast | 🌐 Website Penetration Tester <br>
+      🎓 Student at St. John College of Engineering and Technology <br>
+      💡 Passionate about learning and building innovative solutions <br>
+      ☕ Lifelong Learner
+    </p>
+  </section>
 
-  <hr style="border: 1px solid #f39c12; width: 50%; margin: 2em auto;">
+  <!-- Social Links Section -->
+  <section style="text-align: center; margin-top: 30px;">
+    <table style="width: 100%; max-width: 500px; margin: 0 auto;">
+      <tr>
+        <td align="center">
+          <a href="https://www.linkedin.com/in/divyanshubhoir/" target="_blank">
+            <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/divyanshubhoir" target="_blank">
+            <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+          </a>
+        </td>
+      </tr>
+    </table>
+  </section>
 
-  <h3 align="center" style="color: #e74c3c;">🌟 About Me 🌟</h3>
-  <p align="center" style="font-size: 1.2em;">
-    🚀 Android Developer | 🔐 Cybersecurity Enthusiast | 🌐 Website Penetration Tester <br>
-    🎓 Student at St. John College of Engineering and Technology <br>
-    💡 Passionate about learning and building innovative solutions <br>
-    ☕ Lifelong Learner
-  </p>
+  <div style="text-align: center; padding: 40px;">
+    <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="50" alt="GIF" />
+  </div>
 
-  <table align="center" style="margin-top: 2em;">
-    <tr>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/onkararadhye/" target="_blank">
-          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fonkararadhye&subtitle=@Onkar+Aradhye&size=square" alt="LinkedIn Profile">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/onkararadhye" target="_blank">
-          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fonkararadhye&subtitle=onkararadhye&size=square" alt="GitHub Profile">
-        </a>
-      </td>
-    </tr>
-  </table>
+  <!-- Tools and Technologies Section -->
+  <section style="text-align: center; margin-top: 30px;">
+    <h3 style="font-size: 1.8em; color: #f39c12;">🛠️ Languages & Tools 🛠️</h3>
+    <div style="padding: 20px;">
+      <img src="https://img.shields.io/badge/Code-Kotlin-informational?style=for-the-badge&logo=kotlin&color=7F52FF" alt="Kotlin">
+      <img src="https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&color=007396" alt="Java">
+      <img src="https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=cplusplus&color=00599C" alt="C++">
+      <img src="https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&color=3776AB" alt="Python">
+      <img src="https://img.shields.io/badge/Tools-Android_Studio-informational?style=for-the-badge&logo=android-studio&color=3DDC84" alt="Android Studio">
+      <img src="https://img.shields.io/badge/Tools-Burp_Suite-informational?style=for-the-badge&logo=burp-suite&color=FF7139" alt="Burp Suite">
+      <img src="https://img.shields.io/badge/Tools-Penetration_Testing-informational?style=for-the-badge&logo=owasp&color=FF0000" alt="Penetration Testing">
+    </div>
+  </section>
 
-  <hr style="border: 1px solid #f39c12; width: 50%; margin: 2em auto;">
+  <hr style="border: 1px solid #f39c12; width: 60%; margin: 40px auto;">
 
-  <h3 align="center" style="color: #e74c3c;">🛠️ Languages & Tools 🛠️</h3>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Code-Kotlin-informational?style=for-the-badge&logo=kotlin&color=7F52FF" alt="Kotlin">
-    <img src="https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&color=007396" alt="Java">
-    <img src="https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=cplusplus&color=00599C" alt="C++">
-    <img src="https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&color=3776AB" alt="Python">
-    <img src="https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&color=A8B9CC" alt="C">
-    <img src="https://img.shields.io/badge/Tools-Android_Studio-informational?style=for-the-badge&logo=android-studio&color=3DDC84" alt="Android Studio">
-    <img src="https://img.shields.io/badge/Tools-Burp_Suite-informational?style=for-the-badge&logo=burp-suite&color=FF7139" alt="Burp Suite">
-    <img src="https://img.shields.io/badge/Tools-Penetration_Testing-informational?style=for-the-badge&logo=owasp&color=FF0000" alt="Penetration Testing">
-  </p>
+  <!-- GitHub Stats Section -->
+  <section style="text-align: center;">
+    <h3 style="color: #e74c3c; font-size: 1.8em;">📊 GitHub Stats 📊</h3>
+    <p>
+      <img src="https://github-readme-stats.vercel.app/api?username=divyanshubhoir&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%; max-width: 600px;">
+    </p>
+    <p>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshubhoir&theme=radical" alt="GitHub Streak" style="width: 100%; max-width: 600px;">
+    </p>
+    <p>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshubhoir&layout=compact&theme=radical" alt="Top Languages" style="width: 100%; max-width: 600px;">
+    </p>
+  </section>
 
-  <hr style="border: 1px solid #f39c12; width: 50%; margin: 2em auto;">
+  <hr style="border: 1px solid #f39c12; width: 60%; margin: 40px auto;">
 
-  <h3 align="center" style="color: #e74c3c;">🚀 My Projects 🚀</h3>
-  <p align="center">
-    <a href="https://github.com/onkararadhye/loginappusingandroistudio_firebase">
-      <img src="https://img.shields.io/badge/-Android_Security_App-blue?style=for-the-badge" alt="Android Security App">
+  <!-- Contribution Chart Section -->
+  <section style="text-align: center; margin-top: 30px;">
+    <a href="https://github.com/divyanshubhoir">
+      <img src="https://ghchart.rshah.org/divyanshubhoir" alt="Divyanshu Bhoir's GitHub Contribution Chart" style="width: 100%; max-width: 600px;">
     </a>
-    <a href="https://github.com/yourusername/cybersecurity-toolkit">
-      <img src="https://img.shields.io/badge/-Cybersecurity_Toolkit-green?style=for-the-badge" alt="Cybersecurity Toolkit">
+  </section>
+
+  <hr style="border: 1px solid #f39c12; width: 60%; margin: 40px auto;">
+
+  <!-- Contact Section -->
+  <section style="text-align: center; padding: 20px;">
+    <h3 style="color: #e74c3c;">🤝 Let's Connect 🤝</h3>
+    <a href="https://www.linkedin.com/in/divyanshubhoir" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" style="margin: 10px;">
     </a>
-  </p>
-
-  <hr style="border: 1px solid #f39c12; width: 50%; margin: 2em auto;">
-
-  <h3 align="center" style="color: #e74c3c;">📊 GitHub Stats 📊</h3>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=onkararadhye&show_icons=true&theme=radical" alt="GitHub Stats">
-  </p>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=onkararadhye&theme=radical" alt="GitHub Streak">
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkararadhye&layout=compact&theme=radical" alt="Top Languages">
-  </p>
-
-  <hr style="border: 1px solid #f39c12; width: 50%; margin: 2em auto;">
-
-  <p align="center">
-    <a href="https://github.com/onkararadhye">
-      <img src="https://ghchart.rshah.org/onkararadhye" alt="Onkar Aradhye's GitHub Contribution Chart">
+    <a href="mailto:divyanshubhoir.2004@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 10px;">
     </a>
-  </p>
+  </section>
 
-  <h3 align="center" style="color: #e74c3c;">🤝 Let's Connect 🤝</h3>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/onkararadhye" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="mailto:onkararadhye.2004@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-  </p>
+  <hr style="border: 1px solid #f39c12; width: 60%; margin: 40px auto;">
 
-  <hr style="border: 1px solid #f39c12; width: 50%; margin: 2em auto;">
-
-  <h3 align="center" style="color: #e74c3c;">✨ Thanks for visiting! ✨</h3>
-  <p align="center">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Thank You">
-  </p>
+  <!-- Closing Message -->
+  <section style="text-align: center;">
+    <h3 style="color: #e74c3c; font-size: 1.8em;">✨ Thanks for visiting! ✨</h3>
+    <p>
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="Thank You GIF">
+    </p>
+  </section>
 </body>

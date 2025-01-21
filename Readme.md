@@ -44,10 +44,8 @@
     <h3 style="font-size: 1.8em; color: #f39c12;">🛠️ Languages & Tools 🛠️</h3>
     <div style="padding: 20px;">
       <img src="https://img.shields.io/badge/Code-Kotlin-informational?style=for-the-badge&logo=kotlin&color=7F52FF" alt="Kotlin">
-  
-      <img src="https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&color=3776AB" alt="Python">
-      <img src="https://img.shields.io/badge/Tools-Android_Studio-informational?style=for-the-badge&logo=android-studio&color=3DDC84" alt="Android Studio">
-      <img src="https://img.shields.io/badge/Code-Flutter-informational?style=for-the-badge&logo=flutter&color=02569B" alt="Flutter">
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&color=3776AB" alt="Python">
+      <img src="https://img.shields.io/badge/Tools-Android_Studio-informational?style=for-the-badge&logo=android-studio&color=3DDC84" alt="Android Studio"><img src="https://img.shields.io/badge/Code-Flutter-informational?style=for-the-badge&logo=flutter&color=02569B" alt="Flutter">
       <img src="https://img.shields.io/badge/Code-MERN-informational?style=for-the-badge&logo=mern&color=0085FF" alt="MERN">
     </div>
   </section>
